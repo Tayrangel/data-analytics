@@ -4,11 +4,13 @@ Data Analytics é uma das áreas mais promissoras da atualidade, e a demanda por
 Para aqueles que desejam se aprofundar na área, uma opção é buscar cursos e projetos pessoais para aprimorar suas habilidades e desenvolver projetos que possam ser incluídos em um portfólio. Nesse sentido, criei este repositório de estudos por se tratar de uma ferramenta valiosa para quem busca se desenvolver na área.
 
 ### Certificações
-[clique aqui](/Certificações)!
+[clique aqui!](/Certificações)
+<br>
 
 ### Cursos
 Na pasta de estudos, descrevo detalhadamente o conteúdo dos cursos voltados para diferentes níveis de conhecimento e interesses específicos dentro da área. Para acessar essa área
-[clique aqui](/Cursos/README.MD)!
+[clique aqui!](/Cursos/README.MD)
+<br>
 
 ### Projetos Pessoais
 Além dos cursos, neste repositório de estudos também disponibilizo os projetos pessoais desenvolvidos. Esses projetos são uma forma de aplicar os conhecimentos adquiridos nos cursos e desenvolver projetos que possam ser incluídos em meu portfólio.
